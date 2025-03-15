@@ -26,7 +26,7 @@ Cat Tinder - это забавное приложение, которое поз
 
 
 ## Скачать приложение
-[Скачать APK]()
+[Скачать APK](https://github.com/andreylikhterman/Flutter_hw1/releases/tag/v1.0.0)
 
 ## Технологии
 - Flutter
