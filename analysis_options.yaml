@@ -1,0 +1,19 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: true
+    prefer_final_locals: true
+    prefer_const_constructors: true
+    prefer_single_quotes: true
+    always_use_package_imports: true
+    avoid_empty_else: true
+    avoid_init_to_null: true
+    prefer_interpolation_to_compose_strings: true
+    sort_constructors_first: true
+    require_trailing_commas: true
+    always_declare_return_types: true
+    avoid_redundant_argument_values: true
+    prefer_expression_function_bodies: true
+    avoid_unnecessary_containers: true
+    prefer_const_literals_to_create_immutables: true

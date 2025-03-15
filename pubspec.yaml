@@ -1,0 +1,26 @@
+name: kototinder
+description: Application "Cat Tinder"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  cached_network_image: ^3.2.0
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/cat.png"
