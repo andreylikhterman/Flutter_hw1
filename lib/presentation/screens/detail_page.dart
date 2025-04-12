@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kototinder/models/cat.dart';
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:kototinder/domain/entities/cat.dart';
 
 class DetailPage extends StatelessWidget {
-  const DetailPage({
-    super.key,
-    required this.cat,
-  });
+  const DetailPage({super.key, required this.cat});
 
   final Cat cat;
 

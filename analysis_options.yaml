@@ -10,7 +10,6 @@ linter:
     avoid_empty_else: true
     avoid_init_to_null: true
     prefer_interpolation_to_compose_strings: true
-    sort_constructors_first: true
     require_trailing_commas: true
     always_declare_return_types: true
     avoid_redundant_argument_values: true

@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kototinder/screens/home_page.dart';
+import 'package:kototinder/di/injection.dart';
+import 'package:kototinder/presentation/screens/home_page.dart';
 
 void main() {
+  setupDependencies();
   runApp(const TinderApp());
 }
 
